@@ -1,0 +1,54 @@
+PWD c:\Users\10\Desktop\FAKS\3. letnik\FINANČNI PRAKTIKUM\PROJEKT\TSP-in-the-plane-with-few-interior-points\KRATEK OPIS
+INPUT C:\Users\10\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\10\Desktop\FAKS\3. letnik\FINANČNI PRAKTIKUM\PROJEKT\TSP-in-the-plane-with-few-interior-points\KRATEK OPIS\kratek_opis.tex
+OUTPUT c:\Users\10\Desktop\FAKS\3. letnik\FINANČNI PRAKTIKUM\PROJEKT\TSP-in-the-plane-with-few-interior-points\KRATEK OPIS\kratek_opis.log
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-slovenian\slovene.ldf
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-slovenian\slovene.ldf
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1095.tfm
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+INPUT c:\Users\10\Desktop\FAKS\3. letnik\FINANČNI PRAKTIKUM\PROJEKT\TSP-in-the-plane-with-few-interior-points\KRATEK OPIS\kratek_opis.aux
+INPUT c:\Users\10\Desktop\FAKS\3. letnik\FINANČNI PRAKTIKUM\PROJEKT\TSP-in-the-plane-with-few-interior-points\KRATEK OPIS\kratek_opis.aux
+OUTPUT c:\Users\10\Desktop\FAKS\3. letnik\FINANČNI PRAKTIKUM\PROJEKT\TSP-in-the-plane-with-few-interior-points\KRATEK OPIS\kratek_opis.aux
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1440.tfm
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm2488.tfm
+INPUT C:\Users\10\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecbx2488.tfm
+OUTPUT c:\Users\10\Desktop\FAKS\3. letnik\FINANČNI PRAKTIKUM\PROJEKT\TSP-in-the-plane-with-few-interior-points\KRATEK OPIS\kratek_opis.pdf
+INPUT C:\Users\10\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT c:\Users\10\Desktop\FAKS\3. letnik\FINANČNI PRAKTIKUM\PROJEKT\TSP-in-the-plane-with-few-interior-points\KRATEK OPIS\kratek_opis.aux
+INPUT C:\Users\10\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
+INPUT C:\Users\10\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
+INPUT C:\Users\10\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk
+INPUT C:\Users\10\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk
