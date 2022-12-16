@@ -1,1 +1,1 @@
-# TSP-in-the-plane-with-few-interior-points
+# TSP-in-the-plane-with-few-interior-point
