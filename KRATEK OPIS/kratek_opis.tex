@@ -7,6 +7,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\newtheorem*{teorem}{Teorem}
+
 
 \begin{document}
 
@@ -36,6 +38,41 @@
     \end{center}
 \end{titlepage}
 
+\section*{Problem trgovskega potnika}
+
+Problem trgovskega potnika je v kombinatorični optimizaciji zelo znan NP-težek problem, kar pomeni, da še ne poznamo algoritma,
+s katerim bi ga uspeli rešiti v polinomskem času. Danih imamo $n$ mest $\{1,2,\dots,n\}$, za vsak par $i$ in $j$ izmed 
+le-teh poznamo razdaljo $d(i,j)$ med njima. Cilj je ugotoviti najkrajšo pot, ki jo trgovski potnik opravi, če obišče čisto vsa 
+dana mesta natanko enkrat, na koncu pa se vrne v izhodiščno mesto.
+
+\section*{Konveksni Evklidski problem trgovskega potnika}
+
+Konveksni Evklidski problem trgovskega potnika je različica problema trgovskega potnika, pri katerem imamo danih $P$ točk v Evklidski 
+ravnini, razdalje med točkami pa so Evklidske. Nadalje postavimo še pogoj, da morajo točke ležati v konveksnem položaju. Če je 
+izpolnjena ta zahteva, postane naš problem veliko lažje rešljiv, saj najkrajšo pot med vsemi točkami namreč tvori kar rob lupine, ki jo
+tvorijo konveksno postavljene točke.
+
+\section*{Naloga}
+
+V naši nalogi bomo opazovali, kaj se zgodi, ko končno število točkam iz Konveksnega Evklidskega problema trgovskega potnika, dodamo 
+notranjo točko, ki leži znotraj konveksne lupine, in kaj se zgodi, ko dodamo dve, tri, \dots To variacijo se da za končno število točk 
+v ravnini rešiti z dinamičnim programiranjem, mi pa bomo poleg tega proučili še, kako na rešitev problema vpliva število in postavitev 
+točk. Kaj se zgodi, ko število notranjih točk povečamo oz. zmanjšamo, kakšen je najslabši položaj notranjih točk, če točke na robu 
+tvorijo pravilni poligon, kaj se zgodi, če zunanje točke ležijo na robu, niso pa ekvidistančne\dots ?
+
+\section*{Reševanje}
+
+Da bomo lahko ustrezno preučili vse možne scenarije, bomo v izbranem programskem jeziku s pomočjo dinamičnega programiranja napisali 
+kodo za rešitev tega problema, ki bo zadoščala naslednjemu teoremu.
+
+\begin{teorem}
+    Poseben primer Evklidskega problema trgovskega potnika z le nekaj notranjimi točkami je možno rešiti v naslednji časovni in prostorski 
+    zahtevnosti. Tu $n$ predstavlja število vseh točk in $k$ število točk, ki ležijo v notranjosti konveksne lupine. $(1)$ V času $O(k!kn)$
+    in prostoru $O(k)$. $(2)$ V času $O(2^kk^2n)$ in prostoru $O(2^kkn)$.
+\end{teorem}
+
+Znotraj kode bomo nato spreminjali različne parametre, da bomo ustvarili želene situacije, ki jih bomo želeli preučiti, ter izrisali grafe, 
+ki bodo še grafično prikazali dobljene rezultate.
 
 
 \end{document}
